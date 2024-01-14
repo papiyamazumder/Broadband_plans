@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Broadband_plans/1.0.0": {
+        "runtime": {
+          "Broadband_plans.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Broadband_plans/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

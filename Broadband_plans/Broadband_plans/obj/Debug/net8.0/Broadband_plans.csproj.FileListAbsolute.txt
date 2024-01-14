@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\Broadband_plans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\Broadband_plans.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\Broadband_plans.AssemblyInfo.cs
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\Broadband_plans.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\bin\Debug\net8.0\Broadband_plans.exe
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\bin\Debug\net8.0\Broadband_plans.deps.json
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\bin\Debug\net8.0\Broadband_plans.runtimeconfig.json
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\bin\Debug\net8.0\Broadband_plans.dll
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\bin\Debug\net8.0\Broadband_plans.pdb
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\Broadband_plans.dll
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\refint\Broadband_plans.dll
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\Broadband_plans.pdb
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\Broadband_plans.genruntimeconfig.cache
+C:\Projects\C# Projects\Broadband_plans\Broadband_plans\obj\Debug\net8.0\ref\Broadband_plans.dll
